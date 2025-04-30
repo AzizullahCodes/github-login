@@ -57,3 +57,5 @@ gap:20px;}
 .footer-extra{display: flex;
 gap:20px;}
 footer{margin-top: 40px;}
+
+@media(max-width:576px){#label-row{flex-direction: column;}}
